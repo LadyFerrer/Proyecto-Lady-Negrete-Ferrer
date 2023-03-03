@@ -1,0 +1,35 @@
+/*Estilo en el body*/
+body {
+    color:antiquewhite;
+    background-color: rgb(77, 114, 102);
+    font-family: 'Roboto Condensed', sans-serif;
+
+}
+
+p,li{
+    color:rgb(165, 18, 18)
+}
+
+h3{
+    font-size: 35px;
+}
+
+h1{
+    font-size: 50px;
+    font-family: 'Roboto Condensed', sans-serif;
+    color:crimson
+}
+
+img{
+    width: 400px;
+    height: 250px;
+    border-style: groove;
+    border-width: 10px;
+    border-color: darkblue;
+    margin: 20px;
+    padding: 20px;
+}
+
+div, footer{
+    background-color: darkgrey;
+}
